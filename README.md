@@ -13,6 +13,9 @@ This is a simple Task Manager Command Line Interface (CLI) application written i
 
 ## How to Run
 1. Clone the repository or download the project files.
-2. Run the application using the command:
+2. Run the application
+3. Give the commands for tasks which you have to perform
+4. At the end you can save and exit from the application
+
 ## Requirements
 - Python 3.x
